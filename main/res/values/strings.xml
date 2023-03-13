@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApplicationUgryumova</string>
+    <string name="splashScreen0">ПРИВЕТ</string>
+    <string name="splashScreen1">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="splashScreen2">Ещё нет аккаунта?</string>
+    <string name="splashScreen3">Зарегестрируйтесь</string>
+    <string name="login0">Sing in</string>
+    <string name="login1">Email</string>
+    <string name="login2">Password</string>
+    <string name="login3">Register</string>
+    <string name="login4">Profile</string>
+</resources>
